@@ -13,34 +13,45 @@ Hi there! I'm **Yasut0ra** 🌟, a passionate **web developer** and **student at
 ---
 
 ## 🔧 Skills & Technologies
-### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
 
-### Tools & Frameworks
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+### 🌐 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-Language-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### ⚡ Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+### 🛠 Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🚀 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ## 🌟 Featured Projects
-### [Nomitto (のみっと！)](https://github.com/orgs/Team-Futsukayoi/repositories)
+
+### [Nomitto (のみっと！)](https://github.com/Team-Futsukayoi/Nomikai-Setting-App)
 A web app for event planning, with features like:
 - 🗓 Automated event generation
 - 💬 Real-time chat with WebSocket
 - 👥 User authentication using Firebase
 > **Achievements**: Received a Hackathon Effort Award 🏆 and preparing for a presentation at 技育博.
 
-### [ToDo App](https://github.com/username/todo-app)
+### [ToDo App](https://github.com/yasut0ra/todo-app)
 A simple and intuitive ToDo list application built with React, showcasing:
 - ✨ Smooth UI transitions
 - 📋 CRUD functionality
 - 🌐 Responsive design
 
-### [Portfolio](https://github.com/username/portfolio)
+### [Portfolio](https://github.com/yasut0ra/portfolio)
 An overview of my projects, skills, and achievements, designed as a **React-based portfolio website**.
 
 ---
@@ -54,8 +65,8 @@ An overview of my projects, skills, and achievements, designed as a **React-base
 ---
 
 ## 📫 Contact Me
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 🐦 X: [@yourhandle](https://x.com/YaSut0ra94970)
+- 📧 Email: [yastar.tkm83@gmail.com](mailto:yastar.tkm83@gmail.com)
+- 🐦 X: [@yasut0ra](https://x.com/YaSut0ra94970)
 
 ---
 

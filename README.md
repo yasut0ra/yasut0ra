@@ -23,12 +23,11 @@ Hi there! I'm **Yasut0ra** 🌟, a passionate **web developer** and **student at
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
 ## 🌟 Featured Projects
-### [Nomitto (のみっと！)](https://github.com/username/nomitto)
+### [Nomitto (のみっと！)](https://github.com/orgs/Team-Futsukayoi/repositories)
 A web app for event planning, with features like:
 - 🗓 Automated event generation
 - 💬 Real-time chat with WebSocket
@@ -48,21 +47,20 @@ An overview of my projects, skills, and achievements, designed as a **React-base
 
 ## 📈 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yasut0ra&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasut0ra&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
 ## 📫 Contact Me
 - 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- 💼 LinkedIn: [Your Profile](https://linkedin.com/in/your-profile)
+- 🐦 X: [@yourhandle](https://x.com/YaSut0ra94970)
 
 ---
 
 ## 🌈 Fun Fact
-I enjoy listening to **Zutto Mayonaka de Iinoni** 🎵 and exploring creative ways to improve both technology and user experiences.
+I enjoy listening to **ZUTOMAYO** 🎵 and exploring creative ways to improve both technology and user experiences.
 
 ---
 

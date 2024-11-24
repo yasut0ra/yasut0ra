@@ -51,7 +51,7 @@ A simple and intuitive ToDo list application built with React, showcasing:
 - 📋 CRUD functionality
 - 🌐 Responsive design
 
-### [Portfolio](https://vercel.com/yasut0ras-projects/portfolio/7HwS6s3sVFssp8YP6WrWKtewS3wU)
+### [Portfolio](https://portfolio-86s4xuxvu-yasut0ras-projects.vercel.app/)
 An overview of my projects, skills, and achievements, designed as a **React-based portfolio website**.
 
 ---

@@ -106,8 +106,6 @@ An overview of my projects, skills, and achievements, designed as a **React-base
   <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasut0ra&theme=radical" alt="GitHub Streak" />
   
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasut0ra&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ## 🏆 Achievements

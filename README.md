@@ -1,7 +1,7 @@
 # 👋 Welcome to My GitHub Profile!
 
 <p align="center">
-  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" alt="Digital Glitch GIF" width="600" />
+  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" alt="Digital Glitch GIF" width="500" />
 </p>
 
 <h2 align="center">I'm Yasut0ra 🌟</h2>

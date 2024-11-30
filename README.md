@@ -113,10 +113,8 @@ An overview of my projects, skills, and achievements, designed as a **React-base
 
 ### ⚡ Recent Activity Graph
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=yasut0ra&theme=radical&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
-
+[![Yasut0ra's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yasut0ra&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
 ### 🐍 Contribution Snake
 
 <p align="center">

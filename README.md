@@ -77,10 +77,6 @@
 
 ### [Nomitto (のみっと！)](https://github.com/Team-Futsukayoi/Nomikai-Setting-App)
 
-<p>
-  <img src="https://github.com/Team-Futsukayoi/Nomikai-Setting-App/blob/main/assets/demo.gif" alt="Nomitto Demo" width="600" />
-</p>
-
 A web app for event planning with features like:
 
 - 🗓 **Automated Event Generation**

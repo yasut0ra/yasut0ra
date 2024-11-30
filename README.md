@@ -20,8 +20,6 @@
 - 💡 **Interests**: Full-stack Development, Machine Learning, DevOps
 - ✨ **Mission**: Making a positive impact through technology
 
----
-
 ## 🔧 Skills & Technologies
 
 ### 🖥️ Programming Languages
@@ -94,32 +92,35 @@ A web app for event planning with features like:
 
 ---
 
-### [ToDo App](https://github.com/yasut0ra/todo-app)
-
-<p>
-  <img src="https://github.com/yasut0ra/todo-app/blob/main/assets/todo-demo.gif" alt="ToDo App Demo" width="600" />
-</p>
-
-A simple and intuitive ToDo list application built with React, showcasing:
-
-- ✨ **Smooth UI Transitions**
-- 📋 **CRUD Functionality**
-- 🌐 **Responsive Design**
-
----
-
 ### [Portfolio Website](https://portfolio-86s4xuxvu-yasut0ras-projects.vercel.app/)
 
 An overview of my projects, skills, and achievements, designed as a **React-based portfolio website**.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activities
 
 <p align="center">
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=yasut0ra&show_icons=true&theme=radical" alt="GitHub Stats" />
+  
+  <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasut0ra&theme=radical" alt="GitHub Streak" />
+  
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasut0ra&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+### ⚡ Recent Activity Graph
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=yasut0ra&theme=radical&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/yasut0ra/yasut0ra/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
@@ -127,7 +128,15 @@ An overview of my projects, skills, and achievements, designed as a **React-base
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yasut0ra&theme=radical&row=1&column=6" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yasut0ra&theme=radical&row=1&column=7&no-frame=true" alt="Trophies" />
+</p>
+
+---
+
+## 💬 Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasut0ra&langs_count=8&theme=radical&layout=compact" alt="Top Languages" />
 </p>
 
 ---
@@ -135,9 +144,10 @@ An overview of my projects, skills, and achievements, designed as a **React-base
 ## 🤝 Connect with Me
 
 <p align="center">
+  <!-- 連絡先バッジ -->
   <a href="mailto:yastar.tkm83@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://x.com/YaSut0ra94970"><img src="https://img.shields.io/badge/X-1DA1F2?style=flat-square&logo=x&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/takuma-yasuda-7a332533b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <!-- 他のソーシャルリンクがあればここに追加 -->
 </p>
 
@@ -157,8 +167,4 @@ I enjoy listening to **ZUTOMAYO** 🎵 and exploring creative ways to enhance bo
 
 ---
 
-## 💬 Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasut0ra&langs_count=8&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
----

@@ -111,14 +111,10 @@ An overview of my projects, skills, and achievements, designed as a **React-base
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasut0ra&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-### ⚡ Recent Activity Graph
-
-[![yasut0ra's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yasut0ra&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-### 🐍 Contribution Snake
+## 📈 Contributions Overview
 
 <p align="center">
-  <img src="https://github.com/yasut0ra/yasut0ra/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yasut0ra&theme=radical" alt="Contribution Graph" />
 </p>
 
 ---
@@ -130,6 +126,15 @@ An overview of my projects, skills, and achievements, designed as a **React-base
 </p>
 
 ---
+
+<p align="center">
+  <a href="https://github.com/yasut0ra">
+    <img src="https://komarev.com/ghpvc/?username=yasut0ra&style=flat-square&color=blue" alt="Profile Views" />
+  </a>
+  <a href="https://wakatime.com/@yasut0ra">
+    <img src="https://wakatime.com/badge/user/xxxxxx.svg" alt="Wakatime Stats" />
+  </a>
+</p>
 
 ## 💬 Languages
 

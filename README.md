@@ -1,8 +1,7 @@
 # 👋 Welcome to My GitHub Profile!
 
 <p align="center">
-  <!-- カスタムバナー画像をここに挿入 -->
-  <img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" alt="Coding GIF" width="600" />
+  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" alt="Digital Glitch GIF" width="600" />
 </p>
 
 <h2 align="center">I'm Yasut0ra 🌟</h2>

@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- カスタムバナー画像をここに挿入 -->
-  <img src="https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/assets/banner.gif" alt="Banner" />
+  <img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" alt="Coding GIF" width="600" />
 </p>
 
 <h2 align="center">I'm Yasut0ra 🌟</h2>
@@ -146,26 +146,6 @@ I enjoy listening to **ZUTOMAYO** 🎵 and exploring creative ways to enhance bo
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
 </p>
-
----
-
-## 📝 Recent Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [タイトル1](リンク1)
-- [タイトル2](リンク2)
-- [タイトル3](リンク3)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [ビデオタイトル1](リンク1)
-- [ビデオタイトル2](リンク2)
-- [ビデオタイトル3](リンク3)
-<!-- YOUTUBE:END -->
 
 ---
 

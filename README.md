@@ -86,7 +86,7 @@ A web app for event planning with features like:
 
 ---
 
-### [Portfolio Website](https://portfolio-86s4xuxvu-yasut0ras-projects.vercel.app/)
+### [Portfolio Website](portfolio-msd7xvdb2-yasut0ras-projects.vercel.app)
 
 An overview of my projects, skills, and achievements, designed as a **React-based portfolio website**.
 

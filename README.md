@@ -90,6 +90,7 @@
 **Tech Stack:**  
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 
 ### [Portfolio Website](https://yasut0ra-portfolio.vercel.app/)
 

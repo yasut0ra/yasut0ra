@@ -84,7 +84,7 @@
 - 🗓 **Automated Event Scheduling**
 - 💬 **Real-time Chat with WebSocket**
 - 👥 **User Authentication with Firebase**
-- 🏆 **Achievements**: Hackathon Effort Award, preparing for a presentation at **技育博**
+- 🏆 **Achievements**: Hackathon Effort Award, preparing for a presentation at **#技育博2024/12**
 
 **Tech Stack:**  
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />

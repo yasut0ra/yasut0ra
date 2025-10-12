@@ -129,7 +129,6 @@ A React-based portfolio website showcasing my projects, skills, and achievements
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="mailto:yastar.tkm83@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://x.com/YaSut0ra94970"><img src="https://img.shields.io/badge/X-1DA1F2?style=flat-square&logo=x&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/takuma-yasuda-7a332533b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 </p>

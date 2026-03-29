@@ -20,8 +20,12 @@ I am currently studying **bandit-based recommendation and ranking models** and e
 A conversational engine that **learns user preference signals through feedback** using contextual bandits.  
 It doesn’t just generate responses—it **actively explores topics** to discover what engages the user.
 
-#### 🔹 Online Conversation Optimizer
-An experimental **conversation quality optimizer** that detects engagement signals and **adapts dialogue flow** in real-time using **reinforcement-inspired feedback design**.
+#### 🔹 Hachika
+Hachika is an experimental AI project that explores self-oriented artificial behavior.
+Instead of being designed purely as a helpful tool, Hachika is imagined as an artificial being that forms its own preferences, goals, and way of relating through experience.
+
+#### 🔹 rank-bandit-lab
+Rank Bandit Lab is a lightweight playground for studying ranking bandits. You can define attraction probabilities per document, plug in different ranking policies, and observe click behavior under a cascade-style user model. The project ships with command-line tools, tutorials, scenarios, and notebooks so you can move quickly between simulation and analysis.
 
 ---
 

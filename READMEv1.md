@@ -122,13 +122,11 @@ A React-based portfolio website showcasing my projects, skills, and activities.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yasut0ra&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
-
-<p align="center">
+<p align="center"> 
   <img src="https://streak-stats.demolab.com/?user=yasut0ra&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasut0ra&theme=radical" alt="Profile Details" />
+</p> 
+<p align="center"> 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasut0ra&theme=radical" alt="Profile Details" /> 
 </p>
 
 ---
